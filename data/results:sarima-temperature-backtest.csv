@@ -1,0 +1,10 @@
+line,sarima_mae,sarima_rmse,naive_mae
+Bakerloo,0.49,0.58,0.67
+Central,0.66,0.82,0.78
+Jubilee,0.53,0.62,0.83
+Northern,0.37,0.47,0.43
+Piccadilly,0.45,0.56,0.68
+Victoria,0.62,0.76,0.61
+Waterloo_and_City,0.46,0.52,0.5
+Sub-surface_lines,0.68,0.86,0.84
+ALL LINES,0.53,0.65,0.67
