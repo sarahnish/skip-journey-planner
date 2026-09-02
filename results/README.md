@@ -1,1 +1,14 @@
+# Evaluation Results
 
+This folder contains exported figures from the SKIP modelling and evaluation pipeline.
+
+The figures summarise the main findings presented in the project README.
+
+## Figures
+
+- `goal-specialist-f1.png` — validation F1 across PAC goals and candidate models
+- `final-model-tradeoff.png` — final accuracy, precision, recall and F1 comparison
+- `tuning-vs-final.png` — model accuracy across tuning and final evaluation stages
+
+The code used to generate these figures is available in
+[`../notebooks/evaluation-figures.ipynb`](../notebooks/evaluation-figures.ipynb).
