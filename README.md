@@ -252,8 +252,6 @@ Top 3 Recommendations
 
 ## My Contribution
 
-SKIP was developed as a **collaborative MSc Artificial Intelligence project at Queen Mary University of London**.
-
 As **Team Lead**, I:
 
 - **originated the project concept**
