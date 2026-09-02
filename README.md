@@ -6,7 +6,7 @@
 
 An interpretable London Underground journey-planning system that combines graph-based route generation, rule-based scoring, and machine-learning ranking to recommend routes based on **punctuality, accessibility, or comfort**.
 
-> **Project role:** Project Lead — Initiated project concept and led full-lifecycle development for a collaborative MSc AI project.
+> **Project role:** Project Lead — Originated the project idea, coordinated the team, and led the project’s direction and development as part of a collaborative MSc AI project.
 
 ## Overview
 
