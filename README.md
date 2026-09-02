@@ -4,7 +4,7 @@
 
 <h1 align="center">SKIP — Intelligent Journey Recommendation System</h1>
 
-<p align="center">
+
   <b>An accessibility-aware London Underground journey planner combining graph-based routing, machine learning and interpretable scoring to recommend journeys around Punctuality, Accessibility and Comfort.</b>
 </p>
 
