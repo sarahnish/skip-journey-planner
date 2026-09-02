@@ -26,15 +26,15 @@ The system supports three journey PAC goals:
 
 ## Key Features
 
-- 🚇 Graph-based routing across **272 London Underground stations**
-- 🎯 Goal-specific recommendations for punctuality, accessibility, and comfort
-- 🤖 Machine-learning ranking using models including Logistic Regression, Random Forest, and Gradient Boosting
-- 🔎 Interpretable route scoring and feature-level drivers
-- 🛡️ Recall-based safety mechanism for route recommendations
-- 🚩 Honesty flags when no route confidently satisfies the selected goal
-- 🧊 Frozen-data snapshot for reproducible modelling and evaluation
-- 🖥️ Passenger-facing Streamlit interface
-- 🔤 Station-name validation and suggestions for misspelled inputs
+- Graph-based routing across **272 London Underground stations**
+- Goal-specific recommendations for punctuality, accessibility, and comfort
+- Machine-learning ranking using models including Logistic Regression, Random Forest, and Gradient Boosting
+- Interpretable route scoring and feature-level drivers
+- Recall-based safety mechanism for route recommendations
+- Honesty flags when no route confidently satisfies the selected goal
+- Frozen-data snapshot for reproducible modelling and evaluation
+- Passenger-facing Streamlit interface
+- Station-name validation and suggestions for misspelled inputs
 
 ## System Workflow
 
