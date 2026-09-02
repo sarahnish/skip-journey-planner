@@ -1,0 +1,273 @@
+logical_id,naptan_tube,station_name,name_key,fare_zone,line_ids,lat,lon
+940GZZLUACT,940GZZLUACT,Acton Town Underground Station,acton town,3,district;piccadilly,51.503057,-0.280462
+940GZZLUADE,940GZZLUADE,Aldgate East Underground Station,aldgate east,1,district;hammersmith-city,51.515037,-0.072384
+940GZZLUALD,940GZZLUALD,Aldgate Underground Station,aldgate,1,circle;metropolitan,51.514246,-0.075689
+940GZZLUALP,940GZZLUALP,Alperton Underground Station,alperton,4,piccadilly,51.540627,-0.29961
+HUBAMR,940GZZLUAMS,Amersham Underground Station,amersham,9,metropolitan,51.674126,-0.607714
+940GZZLUAGL,940GZZLUAGL,Angel Underground Station,angel,1,northern,51.53184,-0.10635
+940GZZLUACY,940GZZLUACY,Archway Underground Station,archway,2+3,northern,51.565478,-0.134819
+940GZZLUASG,940GZZLUASG,Arnos Grove Underground Station,arnos grove,4,piccadilly,51.616446,-0.133062
+940GZZLUASL,940GZZLUASL,Arsenal Underground Station,arsenal,2,piccadilly,51.558655,-0.107457
+940GZZLUBST,940GZZLUBST,Baker Street Underground Station,baker street,1,bakerloo;circle;hammersmith-city;jubilee;metropolitan,51.522883,-0.15713
+HUBBAL,940GZZLUBLM,Balham Underground Station,balham,3,northern,51.443288,-0.152997
+HUBBAN,940GZZLUBNK,Bank Underground Station,bank,1,central;northern;waterloo-city,51.513356,-0.088899
+940GZZLUBBN,940GZZLUBBN,Barbican Underground Station,barbican,1,circle;hammersmith-city;metropolitan,51.520275,-0.097993
+HUBBKG,940GZZLUBKG,Barking Underground Station,barking,4,district;hammersmith-city,51.539321,0.081053
+940GZZLUBKE,940GZZLUBKE,Barkingside Underground Station,barkingside,4,central,51.585689,0.088585
+940GZZLUBSC,940GZZLUBSC,Barons Court Underground Station,barons court,2,district;piccadilly,51.490311,-0.213427
+940GZZBPSUST,940GZZBPSUST,Battersea Power Station Underground Station,battersea power,1,northern,51.479932,-0.142142
+940GZZLUBWT,940GZZLUBWT,Bayswater Underground Station,bayswater,1,circle;district,51.512284,-0.187938
+940GZZLUBEC,940GZZLUBEC,Becontree Underground Station,becontree,5,district,51.540331,0.127016
+940GZZLUBZP,940GZZLUBZP,Belsize Park Underground Station,belsize park,2,northern,51.550311,-0.164648
+940GZZLUBMY,940GZZLUBMY,Bermondsey Underground Station,bermondsey,2,jubilee,51.49775,-0.063993
+940GZZLUBLG,940GZZLUBLG,Bethnal Green Underground Station,bethnal green,2,central,51.527222,-0.055506
+HUBBFR,940GZZLUBKF,Blackfriars Underground Station,blackfriars,1,circle;district,51.511581,-0.103659
+HUBBHO,940GZZLUBLR,Blackhorse Road Underground Station,blackhorse road,3,victoria,51.586919,-0.04115
+HUBBDS,940GZZLUBND,Bond Street Underground Station,bond street,1,central;jubilee,51.514304,-0.149723
+940GZZLUBOR,940GZZLUBOR,Borough Underground Station,borough,1,northern,51.501199,-0.09337
+940GZZLUBOS,940GZZLUBOS,Boston Manor Underground Station,boston manor,4,piccadilly,51.495635,-0.324939
+940GZZLUBDS,940GZZLUBDS,Bounds Green Underground Station,bounds green,3+4,piccadilly,51.607034,-0.124235
+940GZZLUBWR,940GZZLUBWR,Bow Road Underground Station,bow road,2,district;hammersmith-city,51.52694,-0.025128
+940GZZLUBTX,940GZZLUBTX,Brent Cross Underground Station,brent cross,3,northern,51.57665,-0.213622
+HUBBRX,940GZZLUBXN,Brixton Underground Station,brixton,2,victoria,51.462618,-0.114888
+940GZZLUBBB,940GZZLUBBB,Bromley-by-Bow Underground Station,bromley by bow,2/3,district;hammersmith-city,51.524839,-0.011538
+940GZZLUBKH,940GZZLUBKH,Buckhurst Hill Underground Station,buckhurst hill,5,167;677;central;w14,51.626605,0.046757
+940GZZLUBTK,940GZZLUBTK,Burnt Oak Underground Station,burnt oak,4,northern,51.602774,-0.264048
+940GZZLUCAR,940GZZLUCAR,Caledonian Road Underground Station,caledonian road,2,piccadilly,51.548519,-0.118493
+940GZZLUCTN,940GZZLUCTN,Camden Town Underground Station,camden town,2,northern,51.539292,-0.14274
+HUBZCW,940GZZLUCWR,Canada Water Underground Station,canada water,2,jubilee,51.497931,-0.049405
+HUBCAW,940GZZLUCYF,Canary Wharf Underground Station,canary wharf,2,jubilee,51.503488,-0.018246
+HUBCAN,940GZZLUCGT,Canning Town Underground Station,canning town,2/3,jubilee,51.513584,0.008322
+HUBCST,940GZZLUCST,Cannon Street Underground Station,cannon street,1,circle;district,51.51151,-0.090432
+940GZZLUCPK,940GZZLUCPK,Canons Park Underground Station,canons park,5,jubilee,51.607701,-0.294693
+HUBCFO,940GZZLUCAL,Chalfont & Latimer Underground Station,chalfont & latimer,8,metropolitan,51.667985,-0.560689
+940GZZLUCFM,940GZZLUCFM,Chalk Farm Underground Station,chalk farm,2,northern,51.544118,-0.153388
+940GZZLUCHL,940GZZLUCHL,Chancery Lane Underground Station,chancery lane,1,central,51.518247,-0.111583
+HUBCHX,940GZZLUCHX,Charing Cross Underground Station,charing cross,1,bakerloo;northern,51.50741,-0.127277
+940GZZLUCSM,940GZZLUCSM,Chesham Underground Station,chesham,9,metropolitan,51.705208,-0.611247
+940GZZLUCWL,940GZZLUCWL,Chigwell Underground Station,chigwell,4,167;667;677;central,51.617916,0.075041
+940GZZLUCWP,940GZZLUCWP,Chiswick Park Underground Station,chiswick park,3,district,51.494627,-0.267972
+HUBCLW,940GZZLUCYD,Chorleywood Underground Station,chorleywood,7,metropolitan,51.654358,-0.518461
+940GZZLUCPC,940GZZLUCPC,Clapham Common Underground Station,clapham common,2,northern,51.461742,-0.138317
+940GZZLUCPN,940GZZLUCPN,Clapham North Underground Station,clapham north,2,northern,51.465135,-0.130016
+940GZZLUCPS,940GZZLUCPS,Clapham South Underground Station,clapham south,2+3,northern,51.452654,-0.147582
+940GZZLUCKS,940GZZLUCKS,Cockfosters Underground Station,cockfosters,5,piccadilly,51.65152,-0.149171
+940GZZLUCND,940GZZLUCND,Colindale Underground Station,colindale,4,northern,51.595424,-0.249919
+940GZZLUCSD,940GZZLUCSD,Colliers Wood Underground Station,colliers wood,3,northern,51.41816,-0.178086
+940GZZLUCGN,940GZZLUCGN,Covent Garden Underground Station,covent garden,1,piccadilly,51.513093,-0.124436
+940GZZLUCXY,940GZZLUCXY,Croxley Underground Station,croxley,7,metropolitan,51.647044,-0.441718
+940GZZLUDGE,940GZZLUDGE,Dagenham East Underground Station,dagenham east,5,district,51.544096,0.166017
+940GZZLUDGY,940GZZLUDGY,Dagenham Heathway Underground Station,dagenham heathway,5,district,51.541639,0.147527
+940GZZLUDBN,940GZZLUDBN,Debden Underground Station,debden,6,central,51.645386,0.083782
+940GZZLUDOH,940GZZLUDOH,Dollis Hill Underground Station,dollis hill,3,jubilee,51.551955,-0.239068
+HUBEAL,940GZZLUEBY,Ealing Broadway Underground Station,ealing broadway,3,central;district,51.515017,-0.301457
+940GZZLUECM,940GZZLUECM,Ealing Common Underground Station,ealing common,3,district;piccadilly,51.51014,-0.288265
+940GZZLUECT,940GZZLUECT,Earl's Court Underground Station,earl's court,1+2,district;piccadilly,51.492063,-0.193378
+940GZZLUEAN,940GZZLUEAN,East Acton Underground Station,east acton,2,central,51.516612,-0.247248
+940GZZLUEFY,940GZZLUEFY,East Finchley Underground Station,east finchley,3,northern,51.587131,-0.165012
+940GZZLUEHM,940GZZLUEHM,East Ham Underground Station,east ham,3+4,district;hammersmith-city,51.538948,0.051186
+940GZZLUEPY,940GZZLUEPY,East Putney Underground Station,east putney,2+3,district,51.459205,-0.211
+940GZZLUEAE,940GZZLUEAE,Eastcote Underground Station,eastcote,5,metropolitan;piccadilly,51.576506,-0.397373
+940GZZLUERB,940GZZLUERB,Edgware Road (Bakerloo) Underground Station,edgware road bakerloo,1,bakerloo,51.520299,-0.17015
+940GZZLUERC,940GZZLUERC,Edgware Road (Circle Line) Underground Station,edgware road circle line,1,circle;district;hammersmith-city,51.519858,-0.167832
+940GZZLUEGW,940GZZLUEGW,Edgware Underground Station,edgware,5,northern,51.613653,-0.274928
+HUBEPH,940GZZLUEAC,Elephant & Castle Underground Station,elephant & castle,1+2,bakerloo;northern,51.494536,-0.100606
+940GZZLUEPK,940GZZLUEPK,Elm Park Underground Station,elm park,6,district,51.549775,0.19864
+940GZZLUEMB,940GZZLUEMB,Embankment Underground Station,embankment,1,bakerloo;circle;district;northern,51.507058,-0.122666
+940GZZLUEPG,940GZZLUEPG,Epping Underground Station,epping,6,central,51.69368,0.113767
+940GZZLUESQ,940GZZLUESQ,Euston Square Underground Station,euston square,1,circle;hammersmith-city;metropolitan,51.525604,-0.135829
+HUBEUS,940GZZLUEUS,Euston Underground Station,euston,1,northern;victoria,51.528055,-0.132182
+940GZZLUFLP,940GZZLUFLP,Fairlop Underground Station,fairlop,4,central,51.595618,0.091004
+HUBZFD,940GZZLUFCN,Farringdon Underground Station,farringdon,1,circle;hammersmith-city;metropolitan,51.520252,-0.104913
+940GZZLUFYC,940GZZLUFYC,Finchley Central Underground Station,finchley central,4,northern,51.600921,-0.192527
+940GZZLUFYR,940GZZLUFYR,Finchley Road Underground Station,finchley road,2,jubilee;metropolitan,51.546825,-0.179845
+HUBFPK,940GZZLUFPK,Finsbury Park Underground Station,finsbury park,2,piccadilly;victoria,51.564158,-0.106825
+940GZZLUFBY,940GZZLUFBY,Fulham Broadway Underground Station,fulham broadway,2,district,51.480081,-0.195422
+940GZZLUGTH,940GZZLUGTH,Gants Hill Underground Station,gants hill,4,central,51.576544,0.066185
+940GZZLUGTR,940GZZLUGTR,Gloucester Road Underground Station,gloucester road,1,circle;district;piccadilly,51.494316,-0.182658
+940GZZLUGGN,940GZZLUGGN,Golders Green Underground Station,golders green,3,northern,51.572259,-0.194039
+940GZZLUGHK,940GZZLUGHK,Goldhawk Road Underground Station,goldhawk road,2,circle;hammersmith-city,51.502005,-0.226715
+940GZZLUGDG,940GZZLUGDG,Goodge Street Underground Station,goodge street,1,northern,51.520599,-0.134361
+940GZZLUGGH,940GZZLUGGH,Grange Hill Underground Station,grange hill,4,462;central,51.613378,0.092066
+940GZZLUGPS,940GZZLUGPS,Great Portland Street Underground Station,great portland street,1,circle;hammersmith-city;metropolitan,51.52384,-0.144262
+940GZZLUGPK,940GZZLUGPK,Green Park Underground Station,green park,1,jubilee;piccadilly;victoria,51.506947,-0.142787
+HUBGFD,940GZZLUGFD,Greenford Underground Station,greenford,4,central,51.542424,-0.34605
+HUBGUN,940GZZLUGBY,Gunnersbury Underground Station,gunnersbury,3,district,51.491803,-0.275267
+940GZZLUHLT,940GZZLUHLT,Hainault Underground Station,hainault,4,central,51.603659,0.093482
+HUBHMS,940GZZLUHSD,Hammersmith (Dist&Picc Line) Underground Station,hammersmith dist&picc line,2,district;piccadilly,51.4923,-0.22362
+HUBHMS,940GZZLUHSC,Hammersmith (H&C Line) Underground Station,hammersmith h&c line,2,circle;hammersmith-city,51.49339,-0.22503
+940GZZLUHTD,940GZZLUHTD,Hampstead Underground Station,hampstead,2+3,northern,51.556239,-0.177464
+940GZZLUHGR,940GZZLUHGR,Hanger Lane Underground Station,hanger lane,3,central,51.530177,-0.292704
+HUBHDN,940GZZLUHSN,Harlesden Underground Station,harlesden,3,bakerloo,51.53631,-0.257883
+HUBHRW,940GZZLUHAW,Harrow & Wealdstone Underground Station,harrow & wealdstone,5,bakerloo,51.592268,-0.335217
+HUBHOH,940GZZLUHOH,Harrow-on-the-Hill Underground Station,harrow on the hill,5,metropolitan,51.579195,-0.337225
+940GZZLUHNX,940GZZLUHNX,Hatton Cross Underground Station,hatton cross,5+6,piccadilly,51.466747,-0.423191
+HUBHX4,940GZZLUHR4,Heathrow Terminal 4 Underground Station,heathrow terminal 4,6,piccadilly,51.458524,-0.445771
+HUBHX5,940GZZLUHR5,Heathrow Terminal 5 Underground Station,heathrow terminal 5,6,piccadilly,51.470052,-0.49056
+HUBH13,940GZZLUHRC,Heathrow Terminals 2 & 3 Underground Station,heathrow terminals 2 & 3,6,piccadilly,51.471235,-0.452265
+940GZZLUHCL,940GZZLUHCL,Hendon Central Underground Station,hendon central,3+4,northern,51.583301,-0.226424
+940GZZLUHBT,940GZZLUHBT,High Barnet Underground Station,high barnet,5,northern,51.650541,-0.194298
+940GZZLUHSK,940GZZLUHSK,High Street Kensington Underground Station,high street kensington,1,circle;district,51.501055,-0.192792
+HUBHHY,940GZZLUHAI,Highbury & Islington Underground Station,highbury & islington,2,victoria,51.54635,-0.103324
+940GZZLUHGT,940GZZLUHGT,Highgate Underground Station,highgate,3,northern,51.577532,-0.145857
+940GZZLUHGD,940GZZLUHGD,Hillingdon Underground Station,hillingdon,6,metropolitan;piccadilly,51.553715,-0.449828
+940GZZLUHBN,940GZZLUHBN,Holborn Underground Station,holborn,1,central;piccadilly,51.51758,-0.120475
+940GZZLUHPK,940GZZLUHPK,Holland Park Underground Station,holland park,2,central,51.507143,-0.205679
+940GZZLUHWY,940GZZLUHWY,Holloway Road Underground Station,holloway road,2,piccadilly,51.552697,-0.113244
+940GZZLUHCH,940GZZLUHCH,Hornchurch Underground Station,hornchurch,6,district,51.554093,0.219116
+940GZZLUHWC,940GZZLUHWC,Hounslow Central Underground Station,hounslow central,4,piccadilly,51.471295,-0.366578
+940GZZLUHWE,940GZZLUHWE,Hounslow East Underground Station,hounslow east,4,piccadilly,51.473213,-0.356474
+940GZZLUHWT,940GZZLUHWT,Hounslow West Underground Station,hounslow west,5,piccadilly,51.473469,-0.386544
+940GZZLUHPC,940GZZLUHPC,Hyde Park Corner Underground Station,hyde park corner,1,piccadilly,51.503035,-0.152441
+940GZZLUICK,940GZZLUICK,Ickenham Underground Station,ickenham,6,metropolitan;piccadilly,51.561992,-0.442001
+940GZZLUKNG,940GZZLUKNG,Kennington Underground Station,kennington,1+2,northern,51.488337,-0.105963
+HUBKNL,940GZZLUKSL,Kensal Green Underground Station,kensal green,2,bakerloo,51.530539,-0.225016
+HUBKPA,940GZZLUKOY,Kensington (Olympia) Underground Station,kensington olympia,2,district,51.497624,-0.210015
+HUBKTN,940GZZLUKSH,Kentish Town Underground Station,kentish town,2,northern,51.550312,-0.140733
+HUBKNT,940GZZLUKEN,Kenton Underground Station,kenton,4,bakerloo,51.581756,-0.31691
+HUBKWG,940GZZLUKWG,Kew Gardens Underground Station,kew gardens,3+4,district,51.477058,-0.285241
+940GZZLUKPK,940GZZLUKPK,Kilburn Park Underground Station,kilburn park,2,bakerloo,51.534979,-0.194232
+940GZZLUKBN,940GZZLUKBN,Kilburn Underground Station,kilburn,2,jubilee,51.547183,-0.204248
+HUBKGX,940GZZLUKSX,King's Cross St. Pancras Underground Station,king's cross st pancras,1,circle;hammersmith-city;metropolitan;northern;piccadilly;victoria,51.530663,-0.123194
+940GZZLUKBY,940GZZLUKBY,Kingsbury Underground Station,kingsbury,4,jubilee,51.584845,-0.27879
+940GZZLUKNB,940GZZLUKNB,Knightsbridge Underground Station,knightsbridge,1,137;19;22;452;c1;n137;n19;n22;piccadilly,51.501669,-0.160508
+940GZZLULAD,940GZZLULAD,Ladbroke Grove Underground Station,ladbroke grove,2,circle;hammersmith-city,51.517449,-0.210391
+940GZZLULBN,940GZZLULBN,Lambeth North Underground Station,lambeth north,1,bakerloo,51.498808,-0.112315
+940GZZLULGT,940GZZLULGT,Lancaster Gate Underground Station,lancaster gate,1,central,51.511723,-0.175494
+940GZZLULRD,940GZZLULRD,Latimer Road Underground Station,latimer road,2,circle;hammersmith-city,51.513389,-0.217799
+940GZZLULSQ,940GZZLULSQ,Leicester Square Underground Station,leicester square,1,northern;piccadilly,51.511386,-0.128426
+940GZZLULYN,940GZZLULYN,Leyton Underground Station,leyton,3,central,51.556589,-0.005523
+940GZZLULYS,940GZZLULYS,Leytonstone Underground Station,leytonstone,3+4,central,51.568324,0.008194
+HUBLST,940GZZLULVT,Liverpool Street Underground Station,liverpool street,1,central;circle;hammersmith-city;metropolitan,51.517372,-0.083182
+HUBLBG,940GZZLULNB,London Bridge Underground Station,london bridge,1,jubilee;northern,51.505721,-0.088873
+940GZZLULGN,940GZZLULGN,Loughton Underground Station,loughton,6,167;20;397;677;central;w14,51.641443,0.055476
+940GZZLUMVL,940GZZLUMVL,Maida Vale Underground Station,maida vale,2,bakerloo,51.529777,-0.185758
+940GZZLUMRH,940GZZLUMRH,Manor House Underground Station,manor house,2+3,piccadilly,51.570738,-0.096118
+940GZZLUMSH,940GZZLUMSH,Mansion House Underground Station,mansion house,1,circle;district,51.512117,-0.094009
+940GZZLUMBA,940GZZLUMBA,Marble Arch Underground Station,marble arch,1,central,51.513424,-0.158953
+HUBMYB,940GZZLUMYB,Marylebone Underground Station,marylebone,1,bakerloo,51.522322,-0.163207
+940GZZLUMED,940GZZLUMED,Mile End Underground Station,mile end,2,central;district;hammersmith-city,51.525122,-0.03364
+940GZZLUMHL,940GZZLUMHL,Mill Hill East Underground Station,mill hill east,4,northern,51.608229,-0.209986
+940GZZLUMMT,940GZZLUMMT,Monument Underground Station,monument,1,circle;district,51.5107,-0.085969
+940GZZLUMPK,940GZZLUMPK,Moor Park Underground Station,moor park,6+7,metropolitan,51.629845,-0.432454
+HUBZMG,940GZZLUMGT,Moorgate Underground Station,moorgate,1,circle;hammersmith-city;metropolitan;northern,51.518176,-0.088322
+940GZZLUMDN,940GZZLUMDN,Morden Underground Station,morden,4,northern,51.402142,-0.194839
+940GZZLUMTC,940GZZLUMTC,Mornington Crescent Underground Station,mornington crescent,2,northern,51.534679,-0.138789
+940GZZLUNDN,940GZZLUNDN,Neasden Underground Station,neasden,3,jubilee,51.553986,-0.249837
+940GZZLUNBP,940GZZLUNBP,Newbury Park Underground Station,newbury park,4,central,51.575726,0.090004
+940GZZNEUGST,940GZZNEUGST,Nine Elms Underground Station,nine elms,1,northern,51.479912,-0.128476
+940GZZLUNAN,940GZZLUNAN,North Acton Underground Station,north acton,2+3,central,51.523524,-0.259755
+940GZZLUNEN,940GZZLUNEN,North Ealing Underground Station,north ealing,3,piccadilly,51.517505,-0.288868
+HUBNGW,940GZZLUNGW,North Greenwich Underground Station,north greenwich,2/3,jubilee,51.50047,0.004287
+940GZZLUNHA,940GZZLUNHA,North Harrow Underground Station,north harrow,5,h10;h9;metropolitan,51.584872,-0.362408
+HUBNWB,940GZZLUNWY,North Wembley Underground Station,north wembley,4,bakerloo,51.562551,-0.304
+940GZZLUNFD,940GZZLUNFD,Northfields Underground Station,northfields,3,piccadilly,51.499319,-0.314719
+940GZZLUNHT,940GZZLUNHT,Northolt Underground Station,northolt,5,central,51.548236,-0.368699
+940GZZLUNKP,940GZZLUNKP,Northwick Park Underground Station,northwick park,4,metropolitan,51.578481,-0.318056
+940GZZLUNWH,940GZZLUNWH,Northwood Hills Underground Station,northwood hills,6,metropolitan,51.600572,-0.409464
+940GZZLUNOW,940GZZLUNOW,Northwood Underground Station,northwood,6,metropolitan,51.611053,-0.423829
+940GZZLUNHG,940GZZLUNHG,Notting Hill Gate Underground Station,notting hill gate,1+2,central;circle;district,51.509128,-0.196104
+940GZZLUOAK,940GZZLUOAK,Oakwood Underground Station,oakwood,5,piccadilly,51.647726,-0.132182
+HUBOLD,940GZZLUODS,Old Street Underground Station,old street,1,northern,51.525864,-0.08777
+940GZZLUOSY,940GZZLUOSY,Osterley Underground Station,osterley,4,piccadilly,51.481274,-0.352224
+940GZZLUOVL,940GZZLUOVL,Oval Underground Station,oval,2,northern,51.48185,-0.112439
+940GZZLUOXC,940GZZLUOXC,Oxford Circus Underground Station,oxford circus,1,bakerloo;central;victoria,51.515224,-0.141903
+HUBPAD,940GZZLUPAH,Paddington (H&C Line)-Underground,paddington h&c line underground,1,circle;hammersmith-city,51.518187,-0.178306
+HUBPAD,940GZZLUPAC,Paddington Underground Station,paddington,1,bakerloo;circle;district,51.516581,-0.175689
+940GZZLUPKR,940GZZLUPKR,Park Royal Underground Station,park royal,3,piccadilly,51.527123,-0.284341
+940GZZLUPSG,940GZZLUPSG,Parsons Green Underground Station,parsons green,2,district,51.475277,-0.20117
+940GZZLUPVL,940GZZLUPVL,Perivale Underground Station,perivale,4,central,51.536717,-0.323446
+940GZZLUPCC,940GZZLUPCC,Piccadilly Circus Underground Station,piccadilly circus,1,bakerloo;piccadilly,51.51005,-0.133798
+940GZZLUPCO,940GZZLUPCO,Pimlico Underground Station,pimlico,1,victoria,51.489097,-0.133761
+940GZZLUPNR,940GZZLUPNR,Pinner Underground Station,pinner,5,metropolitan,51.592901,-0.381161
+940GZZLUPLW,940GZZLUPLW,Plaistow Underground Station,plaistow,3,district;hammersmith-city,51.531341,0.017451
+940GZZLUPRD,940GZZLUPRD,Preston Road Underground Station,preston road,4,metropolitan,51.571972,-0.295107
+940GZZLUPYB,940GZZLUPYB,Putney Bridge Underground Station,putney bridge,2,district,51.468262,-0.208731
+HUBQPW,940GZZLUQPS,Queen's Park Underground Station,queen's park,2,bakerloo,51.534158,-0.204574
+940GZZLUQBY,940GZZLUQBY,Queensbury Underground Station,queensbury,4,jubilee,51.594188,-0.286219
+940GZZLUQWY,940GZZLUQWY,Queensway Underground Station,queensway,1,central,51.510312,-0.187152
+940GZZLURVP,940GZZLURVP,Ravenscourt Park Underground Station,ravenscourt park,2,district,51.494122,-0.235881
+940GZZLURYL,940GZZLURYL,Rayners Lane Underground Station,rayners lane,5,metropolitan;piccadilly,51.575147,-0.371127
+940GZZLURBG,940GZZLURBG,Redbridge Underground Station,redbridge,4,central,51.576243,0.04536
+940GZZLURGP,940GZZLURGP,Regent's Park Underground Station,regent's park,1,bakerloo,51.523344,-0.146444
+HUBRMD,940GZZLURMD,Richmond Underground Station,richmond,4,district,51.463237,-0.301336
+HUBRIC,940GZZLURKW,Rickmansworth Underground Station,rickmansworth,7,metropolitan,51.640207,-0.473703
+940GZZLURVY,940GZZLURVY,Roding Valley Underground Station,roding valley,4,central,51.617199,0.043647
+940GZZLURYO,940GZZLURYO,Royal Oak Underground Station,royal oak,2,circle;hammersmith-city,51.519113,-0.188748
+940GZZLURSG,940GZZLURSG,Ruislip Gardens Underground Station,ruislip gardens,5,central,51.560736,-0.41071
+940GZZLURSM,940GZZLURSM,Ruislip Manor Underground Station,ruislip manor,6,metropolitan;piccadilly,51.573202,-0.412973
+940GZZLURSP,940GZZLURSP,Ruislip Underground Station,ruislip,6,metropolitan;piccadilly,51.571354,-0.421898
+940GZZLURSQ,940GZZLURSQ,Russell Square Underground Station,russell square,1,piccadilly,51.523073,-0.124285
+HUBSVS,940GZZLUSVS,Seven Sisters Underground Station,seven sisters,3,victoria,51.58333,-0.072584
+HUBSPB,940GZZLUSBC,Shepherd's Bush (Central) Underground Station,shepherd's bush central,2,central,51.504376,-0.218813
+940GZZLUSBM,940GZZLUSBM,Shepherd's Bush Market Underground Station,shepherd's bush market,2,circle;hammersmith-city,51.505579,-0.226375
+940GZZLUSSQ,940GZZLUSSQ,Sloane Square Underground Station,sloane square,1,circle;district,51.49227,-0.156377
+940GZZLUSNB,940GZZLUSNB,Snaresbrook Underground Station,snaresbrook,4,central,51.580678,0.02144
+940GZZLUSEA,940GZZLUSEA,South Ealing Underground Station,south ealing,3,piccadilly,51.501003,-0.307424
+940GZZLUSHH,940GZZLUSHH,South Harrow Underground Station,south harrow,5,piccadilly,51.564888,-0.352492
+940GZZLUSKS,940GZZLUSKS,South Kensington Underground Station,south kensington,1,circle;district;piccadilly,51.494094,-0.174138
+HUBSOK,940GZZLUSKT,South Kenton Underground Station,south kenton,4,bakerloo,51.570232,-0.308433
+HUBSRU,940GZZLUSRP,South Ruislip Underground Station,south ruislip,5,central,51.556853,-0.398915
+940GZZLUSWN,940GZZLUSWN,South Wimbledon Underground Station,south wimbledon,3+4,northern,51.415309,-0.192005
+940GZZLUSWF,940GZZLUSWF,South Woodford Underground Station,south woodford,4,central,51.591907,0.027338
+940GZZLUSFS,940GZZLUSFS,Southfields Underground Station,southfields,3,district,51.445073,-0.206602
+940GZZLUSGT,940GZZLUSGT,Southgate Underground Station,southgate,4,piccadilly,51.632315,-0.127816
+940GZZLUSWK,940GZZLUSWK,Southwark Underground Station,southwark,1,jubilee,51.50427,-0.105331
+940GZZLUSJP,940GZZLUSJP,St. James's Park Underground Station,st james's park,1,circle;district,51.499544,-0.133608
+940GZZLUSJW,940GZZLUSJW,St. John's Wood Underground Station,st john's wood,2,jubilee,51.534521,-0.173948
+940GZZLUSPU,940GZZLUSPU,St. Paul's Underground Station,st paul's,1,central,51.514936,-0.097567
+940GZZLUSFB,940GZZLUSFB,Stamford Brook Underground Station,stamford brook,2,district,51.494917,-0.245704
+940GZZLUSTM,940GZZLUSTM,Stanmore Underground Station,stanmore,5,jubilee,51.619839,-0.303266
+940GZZLUSGN,940GZZLUSGN,Stepney Green Underground Station,stepney green,2,district;hammersmith-city,51.521858,-0.046596
+940GZZLUSKW,940GZZLUSKW,Stockwell Underground Station,stockwell,2,northern;victoria,51.472184,-0.122644
+HUBSBP,940GZZLUSGP,Stonebridge Park Underground Station,stonebridge park,3,bakerloo,51.543959,-0.275892
+HUBSRA,940GZZLUSTD,Stratford Underground Station,stratford,2/3,central;jubilee,51.541806,-0.003458
+940GZZLUSUH,940GZZLUSUH,Sudbury Hill Underground Station,sudbury hill,4,piccadilly,51.556946,-0.336435
+940GZZLUSUT,940GZZLUSUT,Sudbury Town Underground Station,sudbury town,4,piccadilly,51.550815,-0.315745
+940GZZLUSWC,940GZZLUSWC,Swiss Cottage Underground Station,swiss cottage,2,jubilee,51.543681,-0.174894
+940GZZLUTMP,940GZZLUTMP,Temple Underground Station,temple,1,circle;district,51.511006,-0.11426
+940GZZLUTHB,940GZZLUTHB,Theydon Bois Underground Station,theydon bois,6,central,51.671759,0.103085
+940GZZLUTBC,940GZZLUTBC,Tooting Bec Underground Station,tooting bec,3,northern,51.435678,-0.159736
+940GZZLUTBY,940GZZLUTBY,Tooting Broadway Underground Station,tooting broadway,3,northern,51.42763,-0.168374
+HUBTCR,940GZZLUTCR,Tottenham Court Road Underground Station,tottenham court road,1,central;northern,51.516426,-0.13041
+HUBTOM,940GZZLUTMH,Tottenham Hale Underground Station,tottenham hale,3,victoria,51.588108,-0.060241
+940GZZLUTAW,940GZZLUTAW,Totteridge & Whetstone Underground Station,totteridge & whetstone,4,northern,51.630597,-0.17921
+940GZZLUTWH,940GZZLUTWH,Tower Hill Underground Station,tower hill,1,circle;district,51.509971,-0.076546
+940GZZLUTFP,940GZZLUTFP,Tufnell Park Underground Station,tufnell park,2,northern,51.556822,-0.138433
+940GZZLUTNG,940GZZLUTNG,Turnham Green Underground Station,turnham green,2+3,district;piccadilly,51.495148,-0.254555
+940GZZLUTPN,940GZZLUTPN,Turnpike Lane Underground Station,turnpike lane,3,piccadilly,51.590272,-0.102953
+940GZZLUUPB,940GZZLUUPB,Upminster Bridge Underground Station,upminster bridge,6,district,51.55856,0.235809
+HUBUPM,940GZZLUUPM,Upminster Underground Station,upminster,6,district,51.559063,0.250882
+940GZZLUUPY,940GZZLUUPY,Upney Underground Station,upney,4,district,51.538372,0.10153
+940GZZLUUPK,940GZZLUUPK,Upton Park Underground Station,upton park,3,district;hammersmith-city,51.53534,0.035263
+940GZZLUUXB,940GZZLUUXB,Uxbridge Underground Station,uxbridge,6,metropolitan;piccadilly,51.546565,-0.477949
+HUBVXH,940GZZLUVXL,Vauxhall Underground Station,vauxhall,1+2,victoria,51.485743,-0.124204
+HUBVIC,940GZZLUVIC,Victoria Underground Station,victoria,1,circle;district;victoria,51.496359,-0.143102
+HUBWHC,940GZZLUWWL,Walthamstow Central Underground Station,walthamstow central,3,victoria,51.582965,-0.019885
+940GZZLUWSD,940GZZLUWSD,Wanstead Underground Station,wanstead,4,central,51.575501,0.028527
+940GZZLUWRR,940GZZLUWRR,Warren Street Underground Station,warren street,1,northern;victoria,51.524951,-0.138321
+940GZZLUWKA,940GZZLUWKA,Warwick Avenue Underground Station,warwick avenue,2,bakerloo,51.523263,-0.183783
+HUBWAT,940GZZLUWLO,Waterloo Underground Station,waterloo,1,bakerloo;jubilee;northern;waterloo-city,51.503299,-0.11478
+940GZZLUWAF,940GZZLUWAF,Watford Underground Station,watford,7,metropolitan,51.657446,-0.417377
+HUBWMB,940GZZLUWYC,Wembley Central Underground Station,wembley central,4,bakerloo,51.552304,-0.296852
+940GZZLUWYP,940GZZLUWYP,Wembley Park Underground Station,wembley park,4,jubilee;metropolitan,51.563198,-0.279262
+940GZZLUWTA,940GZZLUWTA,West Acton Underground Station,west acton,3,central,51.518001,-0.28098
+HUBWBP,940GZZLUWBN,West Brompton Underground Station,west brompton,2,district,51.487268,-0.195599
+940GZZLUWFN,940GZZLUWFN,West Finchley Underground Station,west finchley,4,northern,51.609426,-0.188362
+HUBWEH,940GZZLUWHM,West Ham Underground Station,west ham,2/3,district;hammersmith-city;jubilee,51.528136,0.005055
+HUBWHD,940GZZLUWHP,West Hampstead Underground Station,west hampstead,2,jubilee,51.546638,-0.191059
+940GZZLUWHW,940GZZLUWHW,West Harrow Underground Station,west harrow,5,metropolitan,51.57971,-0.3534
+940GZZLUWKN,940GZZLUWKN,West Kensington Underground Station,west kensington,2,district,51.490459,-0.206636
+HUBWRU,940GZZLUWRP,West Ruislip Underground Station,west ruislip,6,central,51.569688,-0.437886
+940GZZLUWSP,940GZZLUWSP,Westbourne Park Underground Station,westbourne park,2,circle;hammersmith-city,51.52111,-0.201065
+HUBWSM,940GZZLUWSM,Westminster Underground Station,westminster,1,circle;district;jubilee,51.50132,-0.124861
+940GZZLUWCY,940GZZLUWCY,White City Underground Station,white city,2,central,51.511959,-0.224297
+HUBZWL,940GZZLUWPL,Whitechapel Underground Station,whitechapel,2,district;hammersmith-city,51.519518,-0.059971
+940GZZLUWIG,940GZZLUWIG,Willesden Green Underground Station,willesden green,2+3,jubilee;metropolitan,51.549146,-0.221537
+HUBWIJ,940GZZLUWJN,Willesden Junction Underground Station,willesden junction,2+3,bakerloo,51.532259,-0.244283
+940GZZLUWIP,940GZZLUWIP,Wimbledon Park Underground Station,wimbledon park,3,district,51.434573,-0.199719
+HUBWIM,940GZZLUWIM,Wimbledon Underground Station,wimbledon,3,district,51.421207,-0.206573
+940GZZLUWOG,940GZZLUWOG,Wood Green Underground Station,wood green,3,piccadilly,51.597479,-0.109886
+940GZZLUWLA,940GZZLUWLA,Wood Lane Underground Station,wood lane,2,circle;hammersmith-city,51.509669,-0.22453
+940GZZLUWOF,940GZZLUWOF,Woodford Underground Station,woodford,4,central,51.606899,0.03397
+940GZZLUWOP,940GZZLUWOP,Woodside Park Underground Station,woodside park,4,northern,51.618014,-0.18542
