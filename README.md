@@ -17,7 +17,6 @@
   <a href="notebooks/skip-modelling.ipynb">Modelling Notebook</a> •
   <a href="notebooks/evaluation-figures.ipynb">Evaluation Figures</a> •
   <a href="app/README.md">Run Prototype</a> •
-  <a href="https://github.com/sarahnish/portfolio">Project Portfolio</a>
 </p>
 
 ---
